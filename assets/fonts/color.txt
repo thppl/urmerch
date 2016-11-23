@@ -1,0 +1,3 @@
+#FFC107 - gold
+#2F3238 - light black
+#26292E - black
